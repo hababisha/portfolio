@@ -8,7 +8,7 @@ function Navbar() {
   };
 
   return (
-    <div className='h-[4.5em] bg-slate-900 border-b-black shadow-lg p-4 fixed w-full flex justify-between items-center'>
+    <div className='h-[4.5em] z-10 bg-slate-900 border-b-black shadow-lg p-4 fixed w-full flex justify-between items-center'>
       <div className='text-white flex items-center px-4'>
         <a href="#home" className='text-2xl'>Haileamlak</a>
       </div>
