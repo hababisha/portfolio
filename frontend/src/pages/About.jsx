@@ -16,9 +16,9 @@ function About() {
             /> */}
             <div className='text-center md:text-left mt-4'>
               <div className='space-y-2'>
-                <p>Started coding when I was 10 years old.</p>
-                <p>Mostly self-taught, but currently a student at Defence University College of Engineering.</p>
-                <p>Love to solve problems and transform my ideas into reality.</p>
+                <p>I started coding when I was 10 years old.</p>
+                <p>I'm mostly self-taught, but currently a Computer Science student at Defence University College of Engineering in Bishoftu, Ethiopia.</p>
+                <p>I love to solve problems and transform my ideas into reality.</p>
               </div>
             </div>
           </div>
