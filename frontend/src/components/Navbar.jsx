@@ -14,11 +14,11 @@ function Navbar() {
       </div>
       <div className='hidden md:flex text-white'>
         <ul className='flex gap-8'>
-          <li><a href="#home">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#academy">Academy</a></li>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#home" className='hover:text-rose-600'>Home</a></li>
+          <li><a href="#about" className='hover:text-rose-600'>About</a></li>
+          <li><a href="#academy" className='hover:text-rose-600'>Academy</a></li>
+          <li><a href="#projects" className='hover:text-rose-600'>Projects</a></li>
+          <li><a href="#contact" className='hover:text-rose-600'>Contact</a></li>
         </ul>
       </div>
       <div className='md:hidden text-white'>

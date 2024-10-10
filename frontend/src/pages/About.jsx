@@ -14,6 +14,7 @@ function About() {
               alt="Personal Computer" 
               className='w-64 h-36 md:w-80 md:h-48 object-cover rounded-lg shadow-lg transition-transform transform hover:scale-105' 
             /> */}
+
             <div className='text-center md:text-left mt-4'>
               <div className='space-y-2'>
                 <p>I started coding when I was 10 years old.</p>
@@ -54,6 +55,7 @@ function About() {
               <i className="fab fa-node fa-2x" title="MERN" style={{ color: '#8CC84B' }}></i>
               <span className="ml-2">MERN</span>
             </div>
+            
           </div>
         </div>  
       </div>

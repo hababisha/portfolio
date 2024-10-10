@@ -15,7 +15,7 @@ function Projects() {
             <img src={rasgeez} alt="Project 1" className="w-full h-32 object-cover rounded-t-lg" />
             <h2 className="text-lg font-semibold mt-2">Ras GeZ</h2>
             <p className="text-gray-400 text-sm">This is a restaurant website. I built it using React and Tailwind CSS.</p>
-            <a href="#" className="mt-2 inline-block text-white hover:text-rose-300">View Project</a>
+            <a href="https://rasgeez.vercel.app/" className="mt-2 inline-block text-white hover:text-rose-300">View Project</a>
           </div>
 
           {/* Project Card 2 */}
@@ -23,7 +23,7 @@ function Projects() {
             <img src={senaymovie} alt="Project 2" className="w-full h-32 object-cover rounded-t-lg" />
             <h2 className="text-lg font-semibold mt-2">Senay Movies</h2>
             <p className="text-gray-400 text-sm">A fast and easy movie streaming website. Built with partners at Senay Creatives.</p>
-            <a href="#" className="mt-2 inline-block text-white hover:text-rose-300">View Project</a>
+            <a href="https://senaymovie.senaycreatives.com/" className="mt-2 inline-block text-white hover:text-rose-300">View Project</a>
           </div>
 
           {/* Project Card 3 */}
@@ -31,7 +31,7 @@ function Projects() {
             <img src={senaycreative} alt="Project 3" className="w-full h-32 object-cover rounded-t-lg" />
             <h2 className="text-lg font-semibold mt-2">Senay Creatives</h2>
             <p className="text-gray-400 text-sm">This is our company's landing page. We build custom projects using different technologies.</p>
-            <a href="#" className="mt-2 inline-block text-white hover:text-rose-300">View Project</a>
+            <a href="https://senaycreatives.com/" className="mt-2 inline-block text-white hover:text-rose-300">View Project</a>
           </div>
 
         </div>
